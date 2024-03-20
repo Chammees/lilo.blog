@@ -5,22 +5,22 @@ draft = false
 pinned = false
 image = ""
 +++
-<!--\\\[if !mso]>
+<!--\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,20 +670,20 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1028"/>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\\\[endif]-->
+ </o:shapelayout></xml><!\\\\[endif]-->
 
 <!--StartFragment-->
 
-**Ein Leben als Rockstar, das hat sich Edy erträumt und tourte als Musiker Rosso um die Welt. Der Liebe folgte er in die Schweiz und hat sich ein neues Leben mit neuem beruf aufgebaut. Vermisst er sein altes Leben und die Musik?**
+**Ein Leben als Rockstar, das hat sich Edy erträumt und tourte als Musiker Russo um die Welt. Der Liebe folgte er in die Schweiz und hat sich ein neues Leben mit neuem beruf aufgebaut. Vermisst er sein altes Leben und die Musik?**
 
 ![Edy (aka. Russo) auf Tour mit Lura 2012  Lura - Terre De Blues 2012 (youtube.com)](screenshot-2024-03-19-150520.png)
 
@@ -693,7 +693,7 @@ Autor: James Winfield
 
 **Was hast du vor 15-20 Jahren gemacht und wie hat dein Leben damals ausgesehen?** 
 
-<!--\\\[if gte vml 1]><v:shapetype
+<!--\\\\[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
  <v:stroke joinstyle="miter"/>
@@ -727,9 +727,9 @@ Autor: James Winfield
  <v:imagedata src="file:///C:/Users/james/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
   o:title="Ein Bild, das Konzert, Musikinstrument, Darbietung, Musiker enthält"/>
  <w:wrap type="through" anchorx="margin"/>
-</v:shape><!\\\[endif]--><!--\\\[if !vml]-->![Ein Bild, das Konzert, Musikinstrument, Darbietung, Musiker enthält.
+</v:shape><!\\\\[endif]--><!--\\\\[if !vml]-->![Ein Bild, das Konzert, Musikinstrument, Darbietung, Musiker enthält.
 
-Automatisch generierte Beschreibung](file:///C:/Users/james/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<!--\\\[endif]-->Vor zwanzig Jahren hat mein Leben fast wie heute ausgesehen, damals habe ich als Techniker bei einer Firma gearbeitet. Mein Kollege hat mich damals in die Musikwelt gebracht und von da an bestand mein Leben hauptsächlich aus Musik. Ich hatte viel Erfolg und spielte auf vielen Konzerten und Tourneen.
+Automatisch generierte Beschreibung](file:///C:/Users/james/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<!--\\\\[endif]-->Vor zwanzig Jahren hat mein Leben fast wie heute ausgesehen, damals habe ich als Techniker bei einer Firma gearbeitet. Mein Kollege hat mich damals in die Musikwelt gebracht und von da an bestand mein Leben hauptsächlich aus Musik. Ich hatte viel Erfolg und spielte auf vielen Konzerten und Tourneen.
 
 **Wie war es für dich, auf einer Bühne vor grossem Publikum zu spielen und wie hat das dir gefallen?**                      
 
@@ -761,11 +761,7 @@ Pause zu machen und alle Kontakte abzubrechen, fühlte ich mich für eine Weile 
 
 Schwierig, nein, das würde ich nicht sagen. Die einzige Hürde war die Sprache. Aber ich konnte Französisch und Englisch, und ich sprach immer Französisch mit den Leuten. Einmal sagte jemand zu mir: "Wann fängst du mit Deutsch an?" Das hat mich zum Nachdenken gebracht. Ich wusste, ich muss die Sprache lernen. Also habe ich mich darauf konzentriert, direkt Deutsch zu lernen. Ich empfehle das jedem Einwanderer. Der Schlüssel ist nicht, was du machst, sondern die Sprache. Es war nicht einfach, aber es war machbar. Ich hatte natürlich auch eine Schweizer Freundin, die mir half, Deutsch zu lernen und das war eine grosse Unterstützung.
 
- 
-
 ![ Edy bei der Arbeit im Muristalden](screenshot-2024-03-19-151858.png)
-
-  
 
 **Was war das Schwierigste und auch das schönste am Neustart?**
 
